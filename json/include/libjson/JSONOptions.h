@@ -71,7 +71,7 @@
  *  It's recommended that you also compile using the -Os option, as this will also
  *  reduce the size of the library
  */
-#define JSON_LESS_MEMORY
+//#define JSON_LESS_MEMORY
 
 
 /*
@@ -321,7 +321,7 @@
  *  compatibility between major releases.  It is highly recommended that you move your functions
  *  over to the new equivalents
  */
-//#define JSON_DEPRECATED_FUNCTIONS
+#define JSON_DEPRECATED_FUNCTIONS
 
 
 /*
