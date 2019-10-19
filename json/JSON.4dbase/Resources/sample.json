@@ -1,0 +1,47 @@
+[
+  {
+    "last_line" : "Centennial CO 80122-3264",
+    "input_index" : 0,
+    "delivery_point_barcode" : "801223264011",
+    "analysis" : {
+      "dpv_match_code" : "Y",
+      "dpv_footnotes" : "AABB",
+      "active" : "Y",
+      "dpv_vacant" : "N",
+      "dpv_cmra" : "N",
+      "footnotes" : "N#"
+    },
+    "candidate_index" : 0,
+    "components" : {
+      "default_city_name" : "Littleton",
+      "delivery_point" : "01",
+      "zipcode" : "80122",
+      "delivery_point_check_digit" : "1",
+      "primary_number" : "2001",
+      "street_suffix" : "Cir",
+      "city_name" : "Centennial",
+      "plus4_code" : "3264",
+      "state_abbreviation" : "CO",
+      "street_name" : "Phillips",
+      "street_predirection" : "E"
+    },
+    "metadata" : {
+      "carrier_route" : "C016",
+      "elot_sequence" : "0221",
+      "elot_sort" : "A",
+      "latitude" : 39.568640000000002,
+      "rdi" : "Residential",
+      "congressional_district" : "06",
+      "longitude" : -104.96511,
+      "dst" : true,
+      "precision" : "Zip9",
+      "record_type" : "S",
+      "county_fips" : "08005",
+      "zip_type" : "Standard",
+      "county_name" : "Arapahoe",
+      "time_zone" : "Mountain",
+      "utc_offset" : -7
+    },
+    "delivery_line_1" : "2001 E Phillips Cir"
+  }
+]
